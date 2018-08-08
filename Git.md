@@ -1,0 +1,1 @@
+git branch -a: 查看所有的git 分支
