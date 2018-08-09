@@ -1,1 +1,0 @@
-console.log("这是个临时js 文件")
