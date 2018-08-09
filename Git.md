@@ -61,6 +61,8 @@ git 命令简介：
 	11.克隆项目
 	  git clone url
 	
-	12.通过 git add 命令来实现对hello.py 文件的跟踪 
+	12.通过 git add 命令来实现对hello.py 文件的跟踪 (可以用它开始跟踪新文件，或者把已跟踪的文件放到暂存区，还能用于合并时把有冲突的文件标记为已解决状态等)
 	  git add hello.py
       git commit -m 'initial project version'
+	  
+	13. 移除追踪
