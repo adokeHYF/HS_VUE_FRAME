@@ -57,3 +57,10 @@ git 命令简介：
 	  $ man git-<verb>
 	  
 	  git help config
+	
+	11.克隆项目
+	  git clone url
+	
+	12.通过 git add 命令来实现对hello.py 文件的跟踪 
+	  git add hello.py
+      git commit -m 'initial project version'
